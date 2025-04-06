@@ -10,7 +10,7 @@
 
 ### 🌟 关于我
 
-热爱音乐，专注于将艺术与技术融合，创造独特的数字体验。
+小人物，小世界，小美好
 
 ---
 
@@ -20,7 +20,6 @@
 - 🎵 2024年中央电视台春节联欢晚会音乐制作人
 - 💻 Minecraft服务器插件开发
 
----
 
 <div align="center">
 
@@ -35,7 +34,6 @@
 - UI/UX设计
 - 音乐创作与编曲
 
----
 
 <div align="center">
 
@@ -43,10 +41,10 @@
 
 [![Website](https://img.shields.io/badge/Website-www.lythrilla.cn-blue?style=flat-square&logo=google-chrome)](https://www.lythrilla.cn)
 [![Email](https://img.shields.io/badge/Email-13930421538@163.com-red?style=flat-square&logo=gmail)](mailto:13930421538@163.com)
+[![QQ](https://img.shields.io/badge/QQ-3824670178-12B7F5?style=flat-square&logo=tencentqq)](tencent://message/?uin=3824670178)
 
 </div>
 
----
 
 <div align="center">
 
@@ -62,6 +60,6 @@
 
 <div align="center">
 
-*热爱生活，热爱创作，永远保持好奇心*
+*或大或小，或深或浅，或新或旧，或明或暗*
 
 </div>
