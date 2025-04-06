@@ -17,20 +17,14 @@
 
 ### 🏆 一些介绍
 
-</div>
 - 👀 普普通通的小人物
 - 🎵 2024年中央电视台春节联欢晚会音乐制作人
 - 💻 Minecraft服务器插件开发
-- 
-
-
-
 
 ### 🔧 技术栈
 
 <img src="https://skillicons.dev/icons?i=java,html,css,js,git,github&theme=light" />
 
-</div>
 
 - Java 开发
 - Web前端开发
