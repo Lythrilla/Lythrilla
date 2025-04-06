@@ -16,11 +16,12 @@
 <div align="center">
 
 ### 🏆 一些介绍
-</div>
+
 - 👀 普普通通的小人物
 - 🎵 2024年中央电视台春节联欢晚会音乐制作人
 - 💻 Minecraft服务器插件开发
-
+- 
+</div>
 
 <div align="center">
 
