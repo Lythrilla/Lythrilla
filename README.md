@@ -38,7 +38,7 @@
 
 [![Website](https://img.shields.io/badge/Website-www.lythrilla.cn-blue?style=flat-square&logo=google-chrome)](https://www.lythrilla.cn)
 [![Email](https://img.shields.io/badge/Email-13930421538@163.com-red?style=flat-square&logo=gmail)](mailto:13930421538@163.com)
-[![QQ](https://img.shields.io/badge/QQ-3824670178-12B7F5?style=flat-square&logo=tencentqq)](tencent://message/?uin=3824670178)
+[![QQ](https://img.shields.io/badge/QQ-3824670178-12B7F5?style=flat-square&logo=tencentqq)](http://wpa.qq.com/msgrd?v=3&uin=3824670178&site=qq&menu=yes)
 
 </div>
 
