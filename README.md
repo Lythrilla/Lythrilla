@@ -21,5 +21,21 @@
 - 个人网站：[www.lythrilla.cn](https://www.lythrilla.cn)
 - 邮箱：13930421538@163.com
 
+## 📊 GitHub统计
+
+![Lythrilla的GitHub统计](https://github-readme-stats.vercel.app/api?username=Lythrilla&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lythrilla&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lythrilla&theme=radical)
+
+## 🏆 GitHub奖杯
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Lythrilla&theme=onedark)
+
+## 📈 贡献图
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Lythrilla&theme=dracula)
+
 ---
 *热爱生活，热爱创作，永远保持好奇心* 
