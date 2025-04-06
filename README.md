@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 你好，我是Lythrilla
 
-<!--
-**Lythrilla/Lythrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎵 音乐人 | 💻 开发者 | 🎨 设计师
 
-Here are some ideas to get you started:
+### 🌟 关于我
+热爱音乐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 一些介绍
+- 🎵 2024年中央电视台春节联欢晚会音乐制作人
+- 💻 Minecraft服务器插件开发
+- 
+
+### 🔧 技术栈
+- Java
+- Web开发 (HTML, CSS, JavaScript)
+- UI/UX设计
+- 
+- 作曲与编曲
+
+## 🎯 未来计划
+- 发布全新音乐专辑《编程协奏曲》
+- 开发更多实用的Minecraft插件
+- 创建在线音乐编程教育平台
+
+### 📫 联系方式
+- 个人网站：[www.lythrilla.cn](https://www.lythrilla.cn)
+- 邮箱：13930421538@163.com
+
+---
+*热爱生活，热爱创作，永远保持好奇心* 
